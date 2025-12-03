@@ -85,7 +85,7 @@ python src/predict.py --model_file model.pkl --email "mensagem aqui"
 
 ## 📄 Licença
 
-Escolha sua licença. Posso gerar uma MIT se desejar.
+MIT
 
 ## 👤 Autor
 
